@@ -1,3 +1,4 @@
 *.o
 dnsseed*
 dnsstats.log
+seeds.txt
